@@ -6,7 +6,7 @@
 
 *"Beauty lies in resilience. Intelligence lies in efficiency."*
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)]()
+[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
 [![Model Type](https://img.shields.io/badge/Model-Linear%20State%20Space-blue.svg)]()
 [![Optimizer](https://img.shields.io/badge/Optimizer-Pilosa-orange.svg)]()
 [![Status](https://img.shields.io/badge/Status-Blooming-purple.svg)]()
