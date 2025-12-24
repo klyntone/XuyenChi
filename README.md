@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Xuyen Chi Flower](https://images.unsplash.com/photo-1628628043644-8d45ec6ba94d?q=80&w=2574&auto=format&fit=crop)
+![Hoa Xuyến Chi - Bidens Pilosa](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bidens_pilosa_01.jpg/500px-Bidens_pilosa_01.jpg)
 
 *"Beauty lies in resilience. Intelligence lies in efficiency."*
 
